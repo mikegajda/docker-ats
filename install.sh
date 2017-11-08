@@ -22,7 +22,7 @@ export GCC=gcc
 
 ######
 #
-export ATSVER=0.3.2
+export ATSVER=0.2.12
 export ATSPACK=ats-lang-anairiats-${ATSVER}
 export ATSPACKTGZ=${ATSPACK}.tgz
 #
